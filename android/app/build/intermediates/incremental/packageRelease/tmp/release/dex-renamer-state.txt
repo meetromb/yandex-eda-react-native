@@ -1,0 +1,4 @@
+#Thu Aug 30 17:09:06 MSK 2018
+base.0=C\:\\Users\\meetromb\\Desktop\\_react\\yandexEda\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

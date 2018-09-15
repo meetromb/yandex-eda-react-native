@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\meetromb\\Desktop\\_react\\yandexEda\\android\\app\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\meetromb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\1c3b7b65b4d2fcb44bb7e61452cefa7a\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\meetromb\\Desktop\\_react\\yandexEda\\android\\app\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\meetromb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\1c3b7b65b4d2fcb44bb7e61452cefa7a\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

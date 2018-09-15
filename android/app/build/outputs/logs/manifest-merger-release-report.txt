@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-wheel-picker-android] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-wheel-picker-android\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-view-overflow] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-view-overflow\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-svg\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-22:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\1c3b7b65b4d2fcb44bb7e61452cefa7a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e26cd689a0297b928d60865764db2a1c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\f000abaebbf1e9d2551857c184576b3b\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\5c2167ad24052802ff465dc58b5f8d84\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\8c46c46b9c06081b05fc8184128ee166\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ede1e45878e536fa29c757a8479956a1\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\2d69ba86d5821a726afc10a2c3d941f2\AndroidManifest.xml:1:1-3:12
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.1.2] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\WheelPicker-1.1.2.aar\57ebc0e7d8bc80a5003da0688e4904c5\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\4c41d628f89c0e94ca2bc4ed4987dc4e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\6de64bab5df6180ab9a956f52ca7bf14\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\695305b9135e9732b33929e19c462483\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\6fef720c175c6b7a2fba3a5e16685927\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-20:19
+MERGED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-20:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\1c3b7b65b4d2fcb44bb7e61452cefa7a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\1c3b7b65b4d2fcb44bb7e61452cefa7a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e26cd689a0297b928d60865764db2a1c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e26cd689a0297b928d60865764db2a1c\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ede1e45878e536fa29c757a8479956a1\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ede1e45878e536fa29c757a8479956a1\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\2d69ba86d5821a726afc10a2c3d941f2\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\2d69ba86d5821a726afc10a2c3d941f2\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.yandexeda.MainActivity
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-wheel-picker-android] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-wheel-picker-android\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker-android] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-wheel-picker-android\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-overflow] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-view-overflow\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-overflow] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-view-overflow\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-svg\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-svg\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\fca1f18d93e7e3998deb773e2d01a2a4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\1c3b7b65b4d2fcb44bb7e61452cefa7a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\1c3b7b65b4d2fcb44bb7e61452cefa7a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e26cd689a0297b928d60865764db2a1c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e26cd689a0297b928d60865764db2a1c\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\f000abaebbf1e9d2551857c184576b3b\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\f000abaebbf1e9d2551857c184576b3b\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\5c2167ad24052802ff465dc58b5f8d84\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\5c2167ad24052802ff465dc58b5f8d84\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\8c46c46b9c06081b05fc8184128ee166\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\8c46c46b9c06081b05fc8184128ee166\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ede1e45878e536fa29c757a8479956a1\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ede1e45878e536fa29c757a8479956a1\AndroidManifest.xml:2:3-70
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.1.2] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\WheelPicker-1.1.2.aar\57ebc0e7d8bc80a5003da0688e4904c5\AndroidManifest.xml:8:5-10:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.1.2] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\WheelPicker-1.1.2.aar\57ebc0e7d8bc80a5003da0688e4904c5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\4c41d628f89c0e94ca2bc4ed4987dc4e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\4c41d628f89c0e94ca2bc4ed4987dc4e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\6de64bab5df6180ab9a956f52ca7bf14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\6de64bab5df6180ab9a956f52ca7bf14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\695305b9135e9732b33929e19c462483\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\695305b9135e9732b33929e19c462483\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\6fef720c175c6b7a2fba3a5e16685927\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\meetromb\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\6fef720c175c6b7a2fba3a5e16685927\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml
+meta-data#com.dylanvann.fastimage.OkHttpProgressGlideModule
+ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:13:9-15:43
+	android:value
+		ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:15:13-40
+	android:name
+		ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:14:13-77
+meta-data#com.bumptech.glide.integration.okhttp.OkHttpGlideModule
+ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:16:9-19:35
+	tools:node
+		ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:19:13-32
+	android:value
+		ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:18:13-40
+	android:name
+		ADDED from [:react-native-fast-image] C:\Users\meetromb\Desktop\_react\yandexEda\node_modules\react-native-fast-image\android\build\intermediates\manifests\full\release\AndroidManifest.xml:17:13-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\meetromb\Desktop\_react\yandexEda\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
